@@ -2,9 +2,9 @@
 
 Different templates of CSS styles:<br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;
-**1. Card Hover Effect 2**<br>
+**1. &nbsp;&nbsp; Card Hover Effect 2**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;
-**2. Card Hover Effect**<br>
+**2. &nbsp;&nbsp; Card Hover Effect**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;
 **3. Creative Box Hover Effect**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;
