@@ -1,6 +1,6 @@
 # CSS-Style-Templates
-<br><br>
-Different templates of CSS styles:<br>
+
+Different templates of CSS styles:<br><br>
 **1. Card Hover Effect 2**<br>
 **2. Card Hover Effect**<br>
 **3. Creative Box Hover Effect**<br>
