@@ -2,7 +2,9 @@
 
 Different templates of CSS styles:<br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;
-**1. &nbsp;&nbsp; Card Hover Effect 2**<br>
+<ol>
+  <li>Card Hover Effect 2</li>
+ </ol>
 &nbsp;&nbsp;&nbsp;&nbsp;
 **2. &nbsp;&nbsp; Card Hover Effect**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;
