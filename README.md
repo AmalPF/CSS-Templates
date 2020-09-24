@@ -1,31 +1,19 @@
 # CSS-Style-Templates
 
-Different templates of CSS styles:<br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;
+Different templates of CSS styles:
 <ol>
   <li>Card Hover Effect 2</li>
- </ol>
-&nbsp;&nbsp;&nbsp;&nbsp;
-**2. &nbsp;&nbsp; Card Hover Effect**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;
-**3. &nbsp;&nbsp; Creative Box Hover Effect**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;
-**4. &nbsp;&nbsp; Depth of Field Card Hover Effect**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;
-**5. &nbsp;&nbsp; Flip Card Effect on Hover**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;
-**6. &nbsp;&nbsp; Glowing Gradient Border Card**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;
-**7. &nbsp;&nbsp; Glowing Gradient Loader Ring Animation**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;
-**8. &nbsp;&nbsp; Neon Button**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;
-**9. &nbsp;&nbsp; Responsive Navbar**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;
-**10. &nbsp;&nbsp; Responsive Slider**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;
-**11. &nbsp;&nbsp; Services Box Hover Effect**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;
-**12. &nbsp;&nbsp; Smoke Animation Effect**<br>
-<br><br>
+  <li>Card Hover Effect</li>
+  <li>Creative Box Hover Effect</li>
+  <li>Depth of Field Card Hover Effect</li>
+  <li>Flip Card Effect on Hover</li>
+  <li>Glowing Gradient Border Card</li>
+  <li>Glowing Gradient Loader Ring Animation</li>
+  <li>Neon Button</li>
+  <li>Responsive Navbar</li>
+  <li>Responsive Slider</li>
+  <li>Services Box Hover Effect</li>
+  <li>Smoke Animation Effect</li>
+</ol>
+<br>
 *All the effects were learned and tried out through YouTube videos*
