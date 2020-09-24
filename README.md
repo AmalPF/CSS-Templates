@@ -1,7 +1,7 @@
 # CSS-Style-Templates
 
 Different templates of CSS styles:
-<ol>
+<ol style="bolder">
   <li>Card Hover Effect 2</li>
   <li>Card Hover Effect</li>
   <li>Creative Box Hover Effect</li>
@@ -16,4 +16,4 @@ Different templates of CSS styles:
   <li>Smoke Animation Effect</li>
 </ol>
 <br>
-*All the effects were learned and tried out through YouTube videos*
+<i>All the effects were learned and tried out through YouTube videos</i>
